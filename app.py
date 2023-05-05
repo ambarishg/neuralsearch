@@ -5,7 +5,7 @@ import openai
 import pandas as pd
 
 
-key = "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"
+key = ""
 collection_name = "ENMAX"
 
 
